@@ -1,0 +1,40 @@
+.box{
+    background-color: aqua;
+
+    /* horizontly and verticali movment */
+    /* transform: translate(100px, 100px); */
+    
+    /* vertically movement */
+    /* transform: translateY(200px); */
+
+    /* horizontally movement */
+    /* transform: translateX(200px); */
+
+
+
+    /* clockwise movement */
+    /* transform: rotate(45deg); */
+
+    /* anticlockwise movement */
+    /* transform: rotate(-45deg); */
+
+
+
+    /* horizontally scale and second vertically scale */
+    /* margin: 200px;
+    transform: scale(2,10); */
+    
+    /* horizontally scale */
+    /* transform: scaleX(2.8); */
+
+    /* vertically scale */
+    /* transform: scaleY(5); */
+
+
+
+    /* thoda sa tirchha ho jata hai */
+    /* transform: skew(45deg); */
+    /* transform: skew(60deg); */
+    /* transform: skew(-45deg); */
+    /* transform: skew(-60deg); */
+}
